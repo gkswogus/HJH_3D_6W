@@ -8,7 +8,7 @@
 
 
 #pragma comment(lib, "OpenGL32")
-
+ 
 using namespace std;
 
 chrono::system_clock::time_point startRenderTimePoint;
